@@ -10,5 +10,5 @@
         }
     ],
     "require": {},
-    "bin": "date-helper"
+    "bin": ["date-helper"]
 }
