@@ -9,6 +9,6 @@
             "email": "mike@m1ke.me"
         }
     ],
-    "require": {}
+    "require": {},
     "bin": "date-helper"
 }
