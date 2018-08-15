@@ -1,0 +1,14 @@
+{
+    "name": "m1ke/date-helper",
+    "description": "Quick CLI date helper to avoid needing to check the reference",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "m1ke",
+            "email": "mike@m1ke.me"
+        }
+    ],
+    "require": {}
+    "bin": "date-helper"
+}

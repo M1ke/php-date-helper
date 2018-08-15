@@ -1,0 +1,18 @@
+#!/usr/bin/env php
+<?php
+
+echo "d/j\tDate of month (with/out leading zeroes)
+D/l\tDay text (short/long)
+S\tSuffix st,nd,rd,th
+z\tDay of year
+F/M\tMonth text (long/short)
+m/n\tMonth (with/out leading zeroes)
+Y/y\tYear (4/2 digit)
+a/A\tam or pm
+h/g\tHour (12hr, with/out leading zeroes)
+H/G\tHour (24hr, with/out leading zeries)
+i\tMinutes
+s\tSeconds
+u\tMicroseconds
+";
+
